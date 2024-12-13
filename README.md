@@ -15,3 +15,6 @@
 ## Features
 
 -   TODO
+-   visualizing raterization and vector data
+-   Anlayzing  raster and vector data
+-   Print out useful mesage
